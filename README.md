@@ -2,7 +2,7 @@
 A collection of SQL projects I have done while on my journey to becoming a Data Analyst!
 
 
-#Covid Deaths and Vaccinations
+Covid Deaths and Vaccinations
 - Queried Covid database for insights on how COVID affected countries around the world.
 - Looked at the fatality rate of COVID in the US, as well as all over the world.
 - Looked at the percentage of population infected with COVID per country
